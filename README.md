@@ -1,4 +1,6 @@
 # TVM_GEMM_PRACTICE
+![](https://img.shields.io/badge/cuda-11.6-blue) ![](https://img.shields.io/badge/nvidia-RTX3060-blue)
+
  Leverage TVM's AutoTVM and Ansor frameworks to perform automated optimization of GEMM operations on an RTX 3060 GPU.
 
 ## AutoTVM
