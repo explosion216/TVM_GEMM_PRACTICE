@@ -20,3 +20,7 @@ Size: 16384 × 16384 × 16384
 | 5 | 8192 × 14336 × 14336 | 353.609326 ms 9522.527014 GFLOPS | 466.157373 ms 7223.428299 GFLOPS | 75.856212 |
 | 6 | 16384 × 16384 × 16384 | 911.825098 ms 9646.688872 GFLOPS | 1128.783789 ms 7792.540173 GFLOPS | 80.779429 |
 | 7 | 8192 × 8192 × 28672 | 400.652808 ms 9605.051117 GFLOPS | 459.296973 ms 8378.654611 GFLOPS | 87.231755 |
+
+## Comprehensive Guides to Building TVM from Source
+[Building TVM GPU 0.18.0 with Docker Image](https://blog.csdn.net/m0_74408076/article/details/142164801?spm=1001.2014.3001.5501)  
+[Installing TVM with GPU Support on Windows 11](https://blog.csdn.net/m0_74408076/article/details/141940144?spm=1001.2014.3001.5501)
